@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lazymia
-- 👀 I’m interested in building awemazing products, I do quite a number of stuff in product management too
-- 🌱 I’m currently learning stuffs in frontend development
-- 💞️ I’m looking to collaborate on anything product management
+- 👋 Hi, I’m Chiamaka
+- 👀 ...and I do awemaxing things in software quality assurance
+- 🌱 I’m currently learning Java - not exactly pivoting, but looking to understand Java indepth to handle other automation frameworks
+- 💞️ I’m looking to collaborate on anything software quality assurance that requires my expertise
 - 📫 How to reach me, shoot me an email @ hello.chiamaka@gmail.com
 
 <!---
